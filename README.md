@@ -2,7 +2,7 @@
 An EEG-based brain-computer interface decoder for motor imagery classification.
 
 Built from scratch over summer 2026 as my first serious neurotech project. 
-The goal is to understand the full pipeline behind systems like Neuralink — 
+The goal is to understand the full pipeline behind systems like Neuralink
 from raw electrode signals to decoded movement intent.
 
 ## the problem
